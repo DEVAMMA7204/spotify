@@ -1,4 +1,16 @@
 {
-    "title":"No Copyright Songs",
-    "discription": "Songs for you"
+    "title":"NCS Playlist",
+    "discription": "Songs for you",
+    "tracks":[
+        "Drone Shot - Dyalla.mp3",
+        "Fun Vibe - Dyalla.mp3",
+        "Funk It - Dyalla.mp3",
+        "GTA Type Beat - Dyalla.mp3",
+        "Glitcher - Dyalla.mp3",
+        "Groove - Dyalla.mp3",
+        "I Need You - Dyalla.mp3",
+        "Long Goodbyes to Longer Friends - Schwartzy.mp3",
+        "Regulate - Dyalla.mp3",
+        "When You're Alone - Dyalla.mp3"
+    ]
 }
