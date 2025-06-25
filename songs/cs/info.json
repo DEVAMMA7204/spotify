@@ -1,4 +1,8 @@
 {
-    "title":"No Copyright Songs",
-    "discription": "Songs for you"
+  "title": "CS Playlist",
+  "description": "Best coding tracks from the CS folder",
+  "tracks": [
+    "Garythargy - Schwartzy-Copy.mp3",
+    "Garythargy - Schwartzy.mp3"
+  ]
 }
